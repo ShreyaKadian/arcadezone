@@ -11,7 +11,7 @@ export default function IndexPage() {
             TETRIS
           </h1>
           <p className="mt-3 text-sm text-gray-300 leading-relaxed">
-            Built in C++. Retro vibes. Arcade soul. Slide, spin, drop, and download.
+            Built in C++. Retro vibes all over.
           </p>
         </div>
 
