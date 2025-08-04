@@ -2,6 +2,7 @@ export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
   name: "C++ Tetris",
+    description: "Play classic arcade games online!", 
   navItems: [
     {
     },
