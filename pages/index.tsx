@@ -5,7 +5,7 @@ import DefaultLayout from "@/layouts/default";
 export default function IndexPage() {
   return (
     <DefaultLayout>
-      <section className="flex flex-col items-start md:items-center gap-6 py-12 px-6 text-white w-full animate-fade-in">
+<section className="flex flex-col items-start md:items-center gap-6 py-12 px-6 text-white w-full animate-fade-in md:-translate-x-80">
         <div className="w-full max-w-md bg-black/50 p-5 rounded-2xl backdrop-blur-md shadow-[0_0_25px_#a855f7] border border-violet-500">
           <h1 className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-violet-300 via-pink-400 to-cyan-300 bg-clip-text text-transparent tracking-wider uppercase drop-shadow-[0_0_10px_#8b5cf6]">
             TETRIS
